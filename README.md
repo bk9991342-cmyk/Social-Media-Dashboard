@@ -9,7 +9,10 @@ The objective of this project is to analyze social media data to understand publ
 
 ## Process
 -   Collected and cleaned social media data (posts, hashtags, dates, sentiment scores).
--  Processed data using SQL/Excel for filtering, aggregation, and sentiment classification.
+-  Processed data using Excel for filtering, aggregation, and sentiment classification.
 -  Imported cleaned data into Power BI.
 -  Created interactive visuals such as sentiment distribution, trend analysis, and top hashtags.
 -  Applied slicers for date, sentiment type, and topic analysis.
+
+## Dashboard
+<a href="https://github.com/bk9991342-cmyk/Social-Media-Dashboard/blob/main/Social%20Media%20Dashboard.png">Social Media Dashboard</a>
