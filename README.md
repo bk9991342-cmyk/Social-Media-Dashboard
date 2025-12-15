@@ -22,3 +22,6 @@ The objective of this project is to analyze social media data to understand publ
 -  Certain hashtags and topics showed consistently negative sentiment, indicating areas of concern.
 -  Sentiment trends varied over time, often influenced by events or updates.
 -  Highly engaged posts had stronger sentiment polarity (positive or negative).
+
+## Final Conclusion
+The dashboard provides a clear understanding of public sentiment on social media, enabling businesses to monitor brand perception, identify issues early, and improve engagement strategies using real-time insights.
