@@ -16,3 +16,9 @@ The objective of this project is to analyze social media data to understand publ
 
 ## Dashboard
 <a href="https://github.com/bk9991342-cmyk/Social-Media-Dashboard/blob/main/Social%20Media%20Dashboard.png">Social Media Dashboard</a>
+
+## Project Insights
+-  Positive sentiment dominated overall social media conversations.
+-  Certain hashtags and topics showed consistently negative sentiment, indicating areas of concern.
+-  Sentiment trends varied over time, often influenced by events or updates.
+-  Highly engaged posts had stronger sentiment polarity (positive or negative).
